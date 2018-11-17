@@ -3,3 +3,5 @@
 /.idea/*
 /rest-automation/target/*
 /rest-automation/allure-results/*
+/selenide-automation/allure-results/*
+/selenide-automation/build/*
