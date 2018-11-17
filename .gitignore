@@ -1,3 +1,5 @@
 
 *.class
 /.idea/*
+/rest-automation/target/*
+/rest-automation/allure-results/*
